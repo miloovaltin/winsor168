@@ -1,16 +1,16 @@
 {
-"name": "winsor168",
-"theme": "winsor168",
-"version": "1.1.4",
-"description": "winsor168 ทางเข้าหลักเว็บบาคาร่าเว็บตรง ไม่ผ่านเอเย่นต์ รับเงินเครดิตฟรี",
-"keywords": [
-"winsor168",
-"winsor168 เครดิตฟรี",
-"winsor168 ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/winsor168",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "winsor168",
+  "theme": "winsor168",
+  "version": "1.2.0",
+  "description": "winsor168 ทางเข้าหลักเว็บบาคาร่าเว็บตรง ไม่ผ่านเอเย่นต์ รับเงินเครดิตฟรี",
+  "keywords": [
+    "winsor168",
+    "winsor168 เครดิตฟรี",
+    "winsor168 ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/winsor168",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
